@@ -1,2 +1,2 @@
 # ToDo_Application
-A desktop application developed using Pyhton Tkinter and MongoDb
+A desktop application developed using Python Tkinter and MongoDb
