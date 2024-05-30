@@ -33,6 +33,12 @@ A desktop application developed using Python Tkinter and MongoDb
 <br/>
 
 ![database_records](database_records.jpg)
-<br/>*Database Records*
+<br/>*Database Records : Users*
 
 <br/>
+
+![db_records](db_records.jpg)
+<br/>*Database Records : Tasks*
+
+<br/>
+
