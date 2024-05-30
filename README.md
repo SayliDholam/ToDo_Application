@@ -32,6 +32,11 @@ A desktop application developed using Python Tkinter and MongoDb
 
 <br/>
 
+![register_window](register_window.jpg)
+<br/>*User Registration Window*
+
+<br/>
+
 ![database_records](database_records.jpg)
 <br/>*Database Records : Users*
 
