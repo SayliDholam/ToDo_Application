@@ -11,13 +11,14 @@ interactive.
 <br/>
 
 ## Technologies Used :
-- **tkinter : Python GUI library**<br/><br/>
- customtkinter is an extension of the standard Tkinter library for Python, designed to provide a more modern and customizable interface. It adds new features and widgets that are not available in the standard Tkinter library, making it easier to create visually appealing and responsive user interfaces.
-<br/><br/> Features of customtkinter : <br/>
-Modern Look: Offers a more modern and sleek look for the widgets compared to the traditional Tkinter.<br/>
-Customization: Provides more options for customizing the appearance of widgets, including colors, shapes, and styles.
-<br/><br/> You can install customtkinter using pip : <br/>
-``` pip install customtkinter ```
+- **Tkinter : Python GUI library**<br/><br/>
+Tkinter is the standard GUI (Graphical User Interface) library for Python, which provides an easy way to create windows, dialogs, buttons, and other GUI elements. It is part of the standard Python distribution, so it does not require any additional installation. Tkinter is a thin object-oriented layer on top of the Tcl/Tk toolkit, 
+<br/><br/> Features of tkinter : <br/>
+Cross-Platform: Tkinter works on Windows, macOS, and Linux, making it a versatile choice for GUI applications.<br/>
+Comprehensive Widget Set: Tkinter includes a variety of widgets such as labels, buttons, text boxes, menus, etc.<br/>
+Integrated with Python: Tkinter does not require additional downloads or installations, and it integrates seamlessly with Python applications.<br/>
+<br/><br/> You can install tkinter using pip : <br/>
+``` pip install tkinter ```
 <br/><br/>
 
 - **MongoDB : Database**  <br/>
