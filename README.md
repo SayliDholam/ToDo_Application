@@ -17,7 +17,7 @@ Tkinter is the standard GUI (Graphical User Interface) library for Python, which
 Cross-Platform: Tkinter works on Windows, macOS, and Linux, making it a versatile choice for GUI applications.<br/>
 Comprehensive Widget Set: Tkinter includes a variety of widgets such as labels, buttons, text boxes, menus, etc.<br/>
 Integrated with Python: Tkinter does not require additional downloads or installations, and it integrates seamlessly with Python applications.<br/>
-<br/><br/> You can install tkinter using pip : <br/>
+<br/>You can install tkinter using pip : <br/>
 ``` pip install tkinter ```
 <br/><br/>
 
