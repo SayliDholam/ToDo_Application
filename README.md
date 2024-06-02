@@ -20,16 +20,6 @@ Customization: Provides more options for customizing the appearance of widgets, 
 ``` pip install customtkinter ```
 <br/><br/>
 
-- **PyTesseract : OCR**<br/>
-PyTesseract is a Python wrapper for Google Tesseract-OCR, an optical character recognition (OCR) tool for extracting text from images. It allows you to use Tesseract's capabilities within Python programs
-<br/><br/>Download and Install [PyTesseract](https://pypi.org/project/pytesseract/)
-<br/><br/>Using pip command : <br/>
-```pip install pytesseract pillow```<br/>
-<br/>Write the below import in python code :<br/>
-```from PIL import Image```<br/>
-``` import pytesseract ```
-<br/><br/>
-
 - **MongoDB : Database**  <br/>
 MongoDB is a popular NoSQL database that stores data in JSON-like documents with a flexible schema. This makes it different from traditional relational databases, which store data in rows and columns.</br></br>
 Download MongoDB:</br>
