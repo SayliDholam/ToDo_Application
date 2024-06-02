@@ -43,11 +43,10 @@ Python Script:</br>
  
 </br>
 
-
-
-
-
-
+## Software Requirements :
+1. Operating system: Windows 7 or higher <br/>
+2. Front end: Python 3.11 <br/>
+3. Back end: MongoDB x86_64_7.00   <br/>
 
 <br/>
 <br/>
