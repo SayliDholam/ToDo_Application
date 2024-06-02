@@ -1,5 +1,12 @@
 # ToDo_Application
-A desktop application developed using Python Tkinter and MongoDb
+A desktop application developed using Python Tkinter and MongoDb.
+
+It will first ask the user to set login credentials, post which the user will have to select the 
+category under which the user wishes to place the tasks. 
+Entered tasks can be updated according to the user's requirements. After completing a task, the 
+application will update the respective progress bar under each section. After accomplishing a 
+task, a message will be conveyed to the user via speech, which will make the interface 
+interactive. 
 
 
 
